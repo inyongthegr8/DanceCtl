@@ -10,6 +10,7 @@ Credit goes to Martin Natano for making the original guide and code this project
 ## Additional notes
 
 **This custom software written for the Arduino is best used for Versus/Double play.**
+
 Your experience may vary, along with other factors.
 
 ### Which version should I get?
