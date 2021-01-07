@@ -46,8 +46,8 @@ static const uint8_t hidReportDescriptor[] PROGMEM = {
 };
 
 #define DEBOUNCE_DELAY 2
-#define NBUTTONS 6
-static const int buttonPins[NBUTTONS] = {4, 5, 6, 7, 8, 9};
+#define NBUTTONS 8
+static const int buttonPins[NBUTTONS] = {4, 5, 6, 7, 8, 9, 10, 11};
 
 void setup() {
     int i;

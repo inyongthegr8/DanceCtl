@@ -7,6 +7,8 @@
 // NOTE: This sketch file is for use with Arduino Leonardo and
 //       Arduino Micro only.
 //
+// For Doubles Use by In Yong Lee
+// 2021-01-08
 // Orig by Matthew Heironimus
 // 2015-11-20
 // Edits for Ltek Dance pad: 
@@ -18,8 +20,8 @@
 
 Joystick_ Joystick;
 #define DEBOUNCE_DELAY 5
-#define NBUTTONS 6
-static const int buttonPins[NBUTTONS] = {4,5,6,7,8,9};
+#define NBUTTONS 8
+static const int buttonPins[NBUTTONS] = {4,5,6,7,8,9,10,11};
 static unsigned long lastButtonState[NBUTTONS]; 
 
 void setup() {

@@ -7,6 +7,11 @@ For the full guide, visit https://www.instructables.com/id/Modifying-an-L-tek-Da
 
 Credit goes to Martin Natano for making the original guide and code this project was based on - https://www.natano.net/blog/2019-12-14-usb-polling-adventure/
 
+## Additional notes
+
+**This custom software written for the Arduino is best used for Versus/Double play.**
+Your experience may vary, along with other factors.
+
 ### Which version should I get?
 - If you're planning on using this with Linux, use DanceCtl.
 - If you're planning on using this with Windows, use DanceCtl2.
