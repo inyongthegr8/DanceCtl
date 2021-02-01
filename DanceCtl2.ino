@@ -27,7 +27,7 @@ static unsigned long lastButtonState[NBUTTONS];
 void setup() {
   
   //pinMode(LED_BUILTIN, OUTPUT); //whats this do? from DanceCtl
-  // Initialize Button Pins 4-9
+  // Initialize Button Pins 4-11
   for (int i = 0; i < NBUTTONS; i++)
     pinMode(buttonPins[i], INPUT_PULLUP);
   
