@@ -1,8 +1,8 @@
 // Simple example application that shows how to read four Arduino
 // digital pins and map them to the USB Joystick library.
 //
-// Ground digital pins 4-9 to press the joystick 
-// buttons 0, 1, 2, 3, 4, and 5.
+// Ground digital pins 2-9 to press the joystick 
+// buttons 0, 1, 2, 3, 4, 5, 6 and 7 respectively.
 //
 // NOTE: This sketch file is for use with Arduino Leonardo and
 //       Arduino Micro only.
