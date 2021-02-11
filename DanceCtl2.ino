@@ -21,7 +21,7 @@
 Joystick_ Joystick;
 #define DEBOUNCE_DELAY 5
 #define NBUTTONS 8
-static const int buttonPins[NBUTTONS] = {4,5,6,7,8,9,10,11};
+static const int buttonPins[NBUTTONS] = {2,3,4,5,6,7,8,9};
 static unsigned long lastButtonState[NBUTTONS]; 
 
 void setup() {
